@@ -1,4 +1,4 @@
-authors : Athaku Achmad Aqil Zakaria
+Authors : Athaku Achmad Aqil Zakaria
 
 isi : wWeb ini berisi project mengenai jaringan 1G-5G
 
